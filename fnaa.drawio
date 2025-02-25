@@ -47,7 +47,7 @@
         <mxCell id="coVTbB6gFGEOHuzffBD8-8" value="End" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="coVTbB6gFGEOHuzffBD8-11" value="Move" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="coVTbB6gFGEOHuzffBD8-11" value="Move (or Foxy: next stage)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="115" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="coVTbB6gFGEOHuzffBD8-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="coVTbB6gFGEOHuzffBD8-5">
